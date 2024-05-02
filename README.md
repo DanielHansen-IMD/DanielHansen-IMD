@@ -31,3 +31,4 @@ I also teach workflow techniques and concepts like:
 - Human Centered Design methodologies
 - SEO
 
+I use this repository for class projects and professional development!
