@@ -1,16 +1,33 @@
-### Hi there 👋
+# Ahoy! I'm Daniel Hansen 
+## I'm a Professor in the Interactive Media Development (IMD) Program at Confederation College
 
-<!--
-**DanielHansen-IMD/DanielHansen-IMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I teach students a range of front-end development tools including: 
+- HTML
+- CSS
+- JS
+- Bootstrap
+- SASS
+- Node.js
+- Grunt/Gulp
+- 11ty
+- Nunjucks
+- Liquid
+- Cloudinary
+- Git/GitHub
+- Netlify
+- Svelte
+- WordPress
+- Shopify
+- Squarespace
+- PHP
+- LAMP Stack
+- JAM Stack
 
-Here are some ideas to get you started:
+I also teach workflow techniques and concepts like:
+- Accessibility
+- Content Strategy
+- UI/UX Design
+- Pattern Libraries
+- Human Centered Design methodologies
+- SEO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
