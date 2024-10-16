@@ -21,6 +21,7 @@ I teach students a range of front-end development tools including:
 - Netlify
 - Svelte
 - PWA's
+- REST API's
 - Capacitor
 - WordPress
 - Shopify
